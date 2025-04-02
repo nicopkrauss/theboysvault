@@ -3,4 +3,4 @@
 ---
 
 
-this is for you broke bitches
+this is for you peasants, welcome home
