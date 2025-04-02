@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/fred-the-2nd/","tags":["Secret"]}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/fred-the-2nd/"}
 ---
 
 
