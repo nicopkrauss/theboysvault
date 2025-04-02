@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/fred-the-2nd/"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/fred-the-2nd/","contentClasses":"internal-embed"}
 ---
 
 
@@ -28,7 +28,7 @@
 # Fred the 2nd
 ## Profile
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
+**<Add description here, extend it with AI Text Generator using Ctrl J >**
 
 > [!info] Statblock
 > ```statblock
