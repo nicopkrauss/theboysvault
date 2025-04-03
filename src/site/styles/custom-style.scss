@@ -12,11 +12,17 @@ body {
     //  }
 }
 
+//Remove title from embedded notes//
 .markdown-embed-title {
     display: none;
 }
 
+//Remove padding from embedded notes//
 div.transclusion {
-    border: none;
     padding: 0px !important;
+}
+
+//Remove left border from embedded note//
+.markdown-embed, .internal-embed:not(.image-embed) {
+    border: none;
 }
