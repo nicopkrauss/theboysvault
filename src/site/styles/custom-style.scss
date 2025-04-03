@@ -27,10 +27,10 @@ div.transclusion {
     border: none;
 }
 
-div.callout[data-callout="info"] div.callout-title:has(div.callout-title-inner:contains("Statblock")) {
+.callout[data-callout=info] {
     display: none;
 }
 
-.callout:has(pre.language-encounter-table) {
+code[class*=language-], pre[class*=language-] {
     display: none;
 }
