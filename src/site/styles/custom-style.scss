@@ -26,3 +26,11 @@ div.transclusion {
 .markdown-embed, .internal-embed:not(.image-embed) {
     border: none;
 }
+
+div.callout[data-callout="info"] div.callout-title:has(div.callout-title-inner:contains("Statblock")) {
+    display: none;
+}
+
+.callout:has(pre.language-encounter-table) {
+    display: none;
+}
