@@ -27,10 +27,17 @@ div.transclusion {
     border: none;
 }
 
+//Hide Statblocks//
 .callout[data-callout=info] {
     display: none;
 }
 
+//Hide Encounter thing//
 code[class*=language-], pre[class*=language-] {
+    display: none;
+}
+
+//Remove unpublished links//
+.markdown-rendered .internal-link.is-unresolved {
     display: none;
 }
