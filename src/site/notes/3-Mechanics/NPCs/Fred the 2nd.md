@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/fred-the-2nd/","contentClasses":"internal-embed"}
+{"dg-publish":true,"permalink":"/3-mechanics/np-cs/fred-the-2nd/"}
 ---
 
 
@@ -12,7 +12,7 @@
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
+> Home | [[2-World/Lampoteuo/Lampoteuo\|Lampoteuo]] |
 > Group | `=this.AssociatedGroup` |
 > Sex | Male |
 > Race | `=this.race` |
