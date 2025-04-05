@@ -3,6 +3,31 @@
 ---
 
 
+> [!infobox]
+> # Atavistwo 
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | `VIEW[{type}][text]` |
+> Size | `VIEW[{size}][text]` |
+> Region | `VIEW[{region}][text]` |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | `VIEW[{politics}][text]` |
+> Ruler | `VIEW[{leader}][text]`|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | `VIEW[{commonraces}][text]`|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | `VIEW[{exports}][text]` |
+> Imports | `VIEW[{imports}][text]` |
+> ###### Organizations
+
 
 # Atavistwo
 ## Overview
