@@ -19,7 +19,7 @@
 
 ## Settlements
 - [[2-World/Cirano/Atavista\|Atavista]]
-- [[2-World/Cirano/Cirano backup\|Cirano backup]]
+- [[2-World/Cirano/Atavista 1\|Atavista 1]]
 - [[2-World/Cirano/Eskell\|Eskell]]
 - [[2-World/Cirano/Faaltan Mountains\|Faaltan Mountains]]
 - [[2-World/Cirano/Grandel\|Grandel]]
