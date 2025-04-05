@@ -1,13 +1,34 @@
-```dataview
-TABLE WITHOUT ID
-link(file.name) AS "Group",
-link(Leader) AS "Leader"
-WHERE contains(PrimaryHome, this.file.link)
+---
+{"dg-publish":true,"permalink":"/2-world/cirano/grandel/","tags":["Category/Settlement"]}
+---
 
+> [!infobox]
+> # Grandel
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | Village |
+> Size | Large |
+> Region | Cirano |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | Lordship |
+> Ruler | [[Lord Henric Tolmire\|Lord Henric Tolmire]]|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | Humans|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | Lumber |
+> Imports | Basic goods |
 
-# `=this.file.name`
+# Grandel
 ## Overview
-[[Grandel]] is a wealthy logging village surrounded by dense woodlands. Its economy is driven almost entirely by timber, with shipments frequently heading to [[Halden]] and [[Atavista]]. Despite its humble infrastructure, its output grants it minor political sway.
+[[2-World/Cirano/Grandel\|Grandel]] is a wealthy logging village surrounded by dense woodlands. Its economy is driven almost entirely by timber, with shipments frequently heading to [[2-World/Cirano/Halden\|Halden]] and [[2-World/Cirano/Atavista\|Atavista]]. Despite its humble infrastructure, its output grants it minor political sway.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
@@ -16,11 +37,20 @@ WHERE contains(PrimaryHome, this.file.link)
 ![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 
 ## Notable NPCs
-[[Lord Henric Tolmire]]
+[[Lord Henric Tolmire\|Lord Henric Tolmire]]
 
 ## Additional Details
 Placeholder
 
+# Organizations
+| Group | Leader |
+| ----- | ------ |
+
+{ .block-language-dataview}
+
 # Interactions
 
-```
+| Date | Interactions |
+| ---- | ------------ |
+
+{ .block-language-dataview}

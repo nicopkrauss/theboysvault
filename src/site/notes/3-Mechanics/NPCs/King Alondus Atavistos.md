@@ -8,13 +8,13 @@
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Sex | `VIEW[{Gender}][text]` |
-> Race | `VIEW[{Race}][text]` |
-> Class | `VIEW[{Class}][text]`  |
-> Home | `VIEW[{Location}][text]`  |
-> Group | `VIEW[{AssociatedGroup}][text]` |
-> Age | `VIEW[{Age}][text]`|
-> Condition | `VIEW[{Vitality}][text]` |
+> Sex | Male |
+> Race | Human |
+> Class | Unknown  |
+> Home | [[2-World/Cirano/Atavista\|Atavista]]  |
+> Group | [[3-Mechanics/Guilds and Groups/Atavista Royal Family\|Atavista Royal Family]] |
+> Age | 27|
+> Condition | Alive |
 
 
 # King Alondus Atavistos

@@ -8,13 +8,13 @@
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Sex | `VIEW[{Gender}][text]` |
-> Race | `VIEW[{Race}][text]` |
-> Class | `VIEW[{Class}][text]`  |
-> Home | `VIEW[{Location}][text]`  |
-> Group | `VIEW[{AssociatedGroup}][text]` |
-> Age | `VIEW[{Age}][text]`|
-> Condition | `VIEW[{Vitality}][text]` |
+> Sex | Male |
+> Race | Elf |
+> Class | Unknown  |
+> Home | Unknown  |
+> Group | `= this.AssociatedGroup` |
+> Age | Ancient|
+> Condition | Unknown |
 
 
 # Silvanaar
@@ -26,13 +26,8 @@ With [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]] in hand, Silvana
 
 Some worship Silvanaar as a prophet or even a god in their own right. Others believe they died with the gods they slew. What remains undeniable is that Silvanaar reshaped history, not through armies or empires, but through one weapon and one will.
 
-The value of 'please' is: work
-
-> [!attention]- Call Out
-> Get rid of this
-
-> [!caution]- Call Out
-> Keep this.
+> [!attention]- Silvanaar Lives
+> Contrary to all belief, [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] did not die during [[4-Lore/The Gathering\|The Gathering]] nor were not consumed by [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]], they live.
 
 > [!info] Statblock
 > ```statblock

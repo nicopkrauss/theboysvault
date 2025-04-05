@@ -1,13 +1,35 @@
-```dataview
-TABLE WITHOUT ID
-link(file.name) AS "Group",
-link(Leader) AS "Leader"
-WHERE contains(PrimaryHome, this.file.link)
+---
+{"dg-publish":true,"permalink":"/2-world/cirano/eskell/","tags":["Category/Settlement"]}
+---
 
 
-# `=this.file.name`
+> [!infobox]
+> # Eskell
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | Town |
+> Size | Small |
+> Region | Cirano |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | Lordship |
+> Ruler | [[Lady Mirelle Dorran\|Lady Mirelle Dorran]]|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | Dwarves|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | Fish |
+> Imports | Basic goods |
+
+# Eskell
 ## Overview
-[[Eskell]] sits quietly on the riverbanks east of [[Tiran]], mostly untouched by trade routes and tourism. Though small, the town has grown infamous for a chilling local legend—villagers claim that a woman rises from the lake at night to lure men to their deaths.
+[[2-World/Cirano/Eskell\|Eskell]] sits quietly on the riverbanks east of [[2-World/Cirano/Tiran\|Tiran]], mostly untouched by trade routes and tourism. Though small, the town has grown infamous for a chilling local legend—villagers claim that a woman rises from the lake at night to lure men to their deaths.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
@@ -16,31 +38,23 @@ WHERE contains(PrimaryHome, this.file.link)
 ![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 
 ## Notable NPCs
-[[Lady Mirelle Dorran]]
+[[Lady Mirelle Dorran\|Lady Mirelle Dorran]]
 
 ## Additional Details
 Placeholder
 
+> [!attention]+ Lady of the Lake
+> The Innkeeper told you about a mysterious figured believed to be drowning local men in [[2-World/Cirano/Eskell\|Eskell]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+# Organizations
+| Group | Leader |
+| ----- | ------ |
 
-<div class="markdown-embed-title">
-
-# clean no-title
-
-</div>
-
-
-
-
-## Secret
-> [!warning]+ Lady of the Lake
-> Ask the villagers/innkeeper for rumors and they'll tell you about the Lady of the Lake.
-
-
-</div></div>
-
+{ .block-language-dataview}
 
 # Interactions
 
-```
+| Date | Interactions |
+| ---- | ------------ |
+
+{ .block-language-dataview}

@@ -1,13 +1,35 @@
-```dataview
-TABLE WITHOUT ID
-link(file.name) AS "Group",
-link(Leader) AS "Leader"
-WHERE contains(PrimaryHome, this.file.link)
+---
+{"dg-publish":true,"permalink":"/2-world/cirano/tiran/","tags":["Category/Settlement"]}
+---
 
 
-# `=this.file.name`
+> [!infobox]
+> # Tiran
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | Fishing Town |
+> Size | Medium |
+> Region | Cirano |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | Lordship |
+> Ruler | [[Lord Vedan Yurek\|Lord Vedan Yurek]]|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | Dwarves|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | Fish |
+> Imports | Basic goods |
+
+# Tiran
 ## Overview
-[[Tiran]] is a quiet coastal port known for its robust fishing industry. Located on the open sea, the town exports vast quantities of fish to inland towns. Though small and isolated, its steady output makes it vital to regional food supply.
+[[2-World/Cirano/Tiran\|Tiran]] is a quiet coastal port known for its robust fishing industry. Located on the open sea, the town exports vast quantities of fish to inland towns. Though small and isolated, its steady output makes it vital to regional food supply.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
@@ -16,11 +38,20 @@ WHERE contains(PrimaryHome, this.file.link)
 ![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 
 ## Notable NPCs
-[[Lord Vedan Yurek]]
+[[Lord Vedan Yurek\|Lord Vedan Yurek]]
 
 ## Additional Details
 Placeholder
 
+# Organizations
+| Group | Leader |
+| ----- | ------ |
+
+{ .block-language-dataview}
+
 # Interactions
 
-```
+| Date | Interactions |
+| ---- | ------------ |
+
+{ .block-language-dataview}

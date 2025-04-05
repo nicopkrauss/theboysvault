@@ -1,15 +1,37 @@
-```dataview
-TABLE WITHOUT ID
-link(file.name) AS "Group",
-link(Leader) AS "Leader"
-WHERE contains(PrimaryHome, this.file.link)
+---
+{"dg-publish":true,"permalink":"/2-world/cirano/faaltan-mountains/","tags":["Category/Settlement"]}
+---
 
 
-# `=this.file.name`
+> [!infobox]
+> # Faaltan Mountains
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | Cult |
+> Size | Large Mountains |
+> Region | Cirano |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | Cult |
+> Ruler | Unknown|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | Humans,Dwarves,Dragonkin,Elves|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | `=this.exports` |
+> Imports | `=this.imports` |
+
+# Faaltan Mountains
 ## Overview
-The [[Faaltan Mountains]] form a jagged wall of stone and shadow along Cirano’s eastern frontier. Ancient and inhospitable, these peaks are sparsely wooded and often cloaked in fog. Few paths run deep into the range, and those that do are rarely walked twice. Soldiers stationed in [[Taverske]] keep watch over the pass, and even hardened miners rarely stray far from the valley mouth.
+The [[2-World/Cirano/Faaltan Mountains\|Faaltan Mountains]] form a jagged wall of stone and shadow along Cirano’s eastern frontier. Ancient and inhospitable, these peaks are sparsely wooded and often cloaked in fog. Few paths run deep into the range, and those that do are rarely walked twice. Soldiers stationed in [[2-World/Cirano/Taverske\|Taverske]] keep watch over the pass, and even hardened miners rarely stray far from the valley mouth.
 
-Rumors persist of strange lights, hollow echoes, and figures glimpsed on high ridges. Locals speak of a group known only as the **[[Shardbinders]]**, said to dwell deep within the mountains—though most wisely avoid asking questions.
+Rumors persist of strange lights, hollow echoes, and figures glimpsed on high ridges. Locals speak of a group known only as the **[[Shardbinders\|Shardbinders]]**, said to dwell deep within the mountains—though most wisely avoid asking questions.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
@@ -21,7 +43,7 @@ Rumors persist of strange lights, hollow echoes, and figures glimpsed on high ri
 Placeholder
 
 ## Points of Interest
-[[Temple of the Shardbinders]]
+[[Temple of the Shardbinders\|Temple of the Shardbinders]]
 
 ## Valuables
 Placeholder
@@ -29,6 +51,16 @@ Placeholder
 ## Additional Details
 Placeholder
 
+# Organizations
+| Group                                                                   | Leader |
+| ----------------------------------------------------------------------- | ------ |
+| [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]] | \-     |
+
+{ .block-language-dataview}
+
 # Interactions
 
-```
+| Date | Interactions |
+| ---- | ------------ |
+
+{ .block-language-dataview}

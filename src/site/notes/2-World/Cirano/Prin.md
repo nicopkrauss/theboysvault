@@ -1,11 +1,33 @@
-```dataview
-TABLE WITHOUT ID
-link(file.name) AS "Group",
-link(Leader) AS "Leader"
-WHERE contains(PrimaryHome, this.file.link)
+---
+{"dg-publish":true,"permalink":"/2-world/cirano/prin/","tags":["Category/Settlement"]}
+---
 
 
-# `=this.file.name`
+> [!infobox]
+> # Prin
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | Farm |
+> Size | Large |
+> Region | Cirano |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | Lordship |
+> Ruler | [[Lord Emric Thane\|Lord Emric Thane]]|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | Humans|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | Crops,Livestock |
+> Imports | Basic goods |
+
+# Prin
 ## Overview
 Placeholder
 
@@ -42,6 +64,15 @@ Placeholder
 ## Additional Details
 Placeholder
 
+# Organizations
+| Group | Leader |
+| ----- | ------ |
+
+{ .block-language-dataview}
+
 # Interactions
 
-```
+| Date | Interactions |
+| ---- | ------------ |
+
+{ .block-language-dataview}
