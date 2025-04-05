@@ -26,31 +26,12 @@ With [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]] in hand, Silvana
 
 Some worship Silvanaar as a prophet or even a god in their own right. Others believe they died with the gods they slew. What remains undeniable is that Silvanaar reshaped history, not through armies or empires, but through one weapon and one will.
 
-| Secret                                              | More Info                                                                                                                     |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [[z_Secrets/Silvanaar Secret\|Silvanaar Secret]] | Contrary to all belief, [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] did not die during [[4-Lore/The Gathering\|The Gathering]] nor were not consumed by [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]], they live. |
+> [!warning]+ Call Out
+> Get rid of this
 
-{ .block-language-dataview}
+> [!warning]+ Call Out
+> Keep this.
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# clean no-title
-
-</div>
-
-
-
-
-## Secret
-(x:: Contrary to all belief, [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] did not die during [[4-Lore/The Gathering\|The Gathering]] nor were not consumed by [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]], they live.)
-> [!warning]+ Silvanaar Lives
-> Contrary to all belief, [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] did not die during [[4-Lore/The Gathering\|The Gathering]] nor were not consumed by [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]], they live.
-
-
-
-</div></div>
 
 
 > [!info] Statblock
