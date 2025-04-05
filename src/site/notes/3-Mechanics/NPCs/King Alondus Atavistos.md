@@ -26,6 +26,8 @@ Three years into his reign, the kingdom suffered a harsh and unexpected drought,
 
 Trained as a warrior from a young age, Alondus is often seen in public bearing ceremonial armor rather than robes of state. He is determined to prove himself—not just as a monarch, but as a protector of the realm.
 
+---
+
 > [!info] Statblock
 > ```statblock
 > name: Individual
@@ -39,8 +41,7 @@ creatures:
  - 1: Commoner
 ```
 # Interactions
-| Date                                             | Interactions                                                       |
-| ------------------------------------------------ | ------------------------------------------------------------------ |
-| [[1-Session Journals/04-02-2025\|04-02-2025]] | This is what happened! [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]] fucked up again. |
+| Date | Interactions |
+| ---- | ------------ |
 
 { .block-language-dataview}

@@ -23,6 +23,14 @@
 
 Charming and eccentric, Apple is known for treating every customer like an old friend and every object like a treasure. His inventory ranges from polished coins and faded maps to odd devices that hum faintly with magic.
 
+> [!attention]+ Shardbinder connection
+> Tim Apple is the leader of [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]]
+
+> [!attention]+ True Identity
+> Tim Apple is actually the ancient god [[3-Mechanics/NPCs/Gul'Roth\|Gul'Roth]]
+
+---
+
 > [!info] Statblock
 > ```statblock
 > name: Individual
@@ -40,9 +48,3 @@ creatures:
 | ---- | ------------ |
 
 { .block-language-dataview}
-
-> [!attention]+ Shardbinder connection
-> Tim Apple is the leader of [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]]
-
-> [!attention]+ True Identity
-> Tim Apple is actually the ancient god [[3-Mechanics/NPCs/Gul'Roth\|Gul'Roth]]

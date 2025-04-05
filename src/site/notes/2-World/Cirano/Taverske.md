@@ -29,7 +29,7 @@
 
 # Taverske
 ## Overview
-[[2-World/Cirano/Taverske\|Taverske]] stands as the kingdom's eastern bulwark, a watchpost nestled in the valley just before the [[2-World/Cirano/Faaltan Mountains\|Faaltan Mountains]]. Sparse trees line the outskirts, but the terrain quickly becomes harsh and rocky. The town is populated almost entirely by soldiers and miners, working in service of the monarchy to maintain order at the kingdom’s edge.
+[[2-World/Cirano/Taverske\|Taverske]] stands as the kingdom's eastern bulwark, a watchpost nestled in the valley just before the [[2-World/Cirano/Faaltan Mountains/Faaltan Mountains\|Faaltan Mountains]]. Sparse trees line the outskirts, but the terrain quickly becomes harsh and rocky. The town is populated almost entirely by soldiers and miners, working in service of the monarchy to maintain order at the kingdom’s edge.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)

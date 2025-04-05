@@ -5,7 +5,7 @@
 # Sessions
 | Session Date                                     | players |
 | ------------------------------------------------ | ------- |
-| [[1-Session Journals/04-02-2025\|04-02-2025]] | 2       |
+| [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
 
 { .block-language-dataview}
 
