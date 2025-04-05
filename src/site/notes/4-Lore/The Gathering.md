@@ -8,9 +8,9 @@
 > # The Gathering
 > ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
 > ###### Date
->`VIEW[{fc-date}][text]`
+>1, 1, 0000
 > ###### Location
->`VIEW[{Location}][text]`
+>Unknown
 > ###### Parties Involved
 > - [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]]
 > 

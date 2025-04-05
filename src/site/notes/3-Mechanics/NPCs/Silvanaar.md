@@ -44,7 +44,8 @@ creatures:
  - 1: Commoner
 ```
 # Interactions
-| Date | Interactions |
-| ---- | ------------ |
+| Date                                           | Interactions                                                                                                                                                               |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1-Session Journals/Session 0\|Session 0]] | [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] is a legendary figure in the world who gathered powerful relics during the Gathering event, which marked the end of the age of divinity and the rise of man. |
 
 { .block-language-dataview}

@@ -5,6 +5,7 @@
 # Sessions
 | Session Date                                     | Players |
 | ------------------------------------------------ | ------- |
+| [[1-Session Journals/Session 0\|Session 0]]   | 2       |
 | [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
 
 { .block-language-dataview}
