@@ -9,8 +9,8 @@
 > ###### Politics
 > Type |  Stat |
 > ---|---|
-> Govt Type | `VIEW[{politics}][text]` |
-> Ruler | `VIEW[{leader}][text]`|
+> Govt Type | Monarchy |
+> Ruler | [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]]|
 
 
 # Cirano
