@@ -3,9 +3,9 @@
 ---
 
 # Sessions
-| Session Date                                     | Status              | players |
-| ------------------------------------------------ | ------------------- | ------- |
-| [[1-Session Journals/04-02-2025\|04-02-2025]] | <ul><li>⏳</li></ul> | 2       |
+| Session Date                                     | players |
+| ------------------------------------------------ | ------- |
+| [[1-Session Journals/04-02-2025\|04-02-2025]] | 2       |
 
 { .block-language-dataview}
 
