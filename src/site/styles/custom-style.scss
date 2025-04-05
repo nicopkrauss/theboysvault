@@ -37,11 +37,6 @@ code[class*=language-], pre[class*=language-] {
     display: none;
 }
 
-//Remove unpublished links//
-.markdown-rendered .internal-link.is-unresolved {
-    display: none;
-}
-
 //Hide Secrets//
 .callout[data-callout="attention"] {
     display: none;
