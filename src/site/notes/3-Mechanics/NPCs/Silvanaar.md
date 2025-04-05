@@ -26,6 +26,8 @@ With [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]] in hand, Silvana
 
 Some worship Silvanaar as a prophet or even a god in their own right. Others believe they died with the gods they slew. What remains undeniable is that Silvanaar reshaped history, not through armies or empires, but through one weapon and one will.
 
+The value of 'please' is: work
+
 > [!attention]- Call Out
 > Get rid of this
 
