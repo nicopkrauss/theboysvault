@@ -31,7 +31,7 @@ Some worship Silvanaar as a prophet or even a god in their own right. Others bel
 
 <div class="markdown-embed-title">
 
-# clean no-title
+# no-title
 
 </div>
 
@@ -40,7 +40,7 @@ Some worship Silvanaar as a prophet or even a god in their own right. Others bel
 
 ## Secret
 > [!warning]+ Silvanaar Lives
-> Contrary to all belief, [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] did not die during the [[Gathering\|Gathering]]. They were not consumed by [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]], they live.
+> Contrary to all belief, [[3-Mechanics/NPCs/Silvanaar\|Silvanaar]] did not die during [[4-Lore/The Gathering\|The Gathering]] nor were not consumed by [[3-Mechanics/Items/Titan Artifacts/Godrender\|Godrender]], they live.
 
 
 </div></div>
