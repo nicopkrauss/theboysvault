@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-scratch-notes/player-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-scratch-notes/player-home/"}
 ---
 
 # Sessions
