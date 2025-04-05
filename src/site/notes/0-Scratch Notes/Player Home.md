@@ -3,7 +3,7 @@
 ---
 
 # Sessions
-| Session Date                                     | players |
+| Session Date                                     | Players |
 | ------------------------------------------------ | ------- |
 | [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
 
