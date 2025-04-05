@@ -3,6 +3,7 @@
 ---
 
 # House Rules
+
 ## Combat
 #### Critical Hits
 - A Crit is max damage + roll damage again
@@ -11,6 +12,7 @@
 - Bonus Action for you to drink a potion
 - Action to use on someone else
 
+
 ## Exploration and Rest
 #### Short Rests
 - 1 hour passes
@@ -18,6 +20,7 @@
 
 #### Long Rests
 - 8 hours pass
+
 
 ## Spellcasting and Items
 #### Components

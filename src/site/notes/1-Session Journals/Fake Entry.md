@@ -2,22 +2,6 @@
 {"dg-publish":true,"permalink":"/1-session-journals/fake-entry/","tags":["journal"]}
 ---
 
-
-# Roster 
-
-
-
-- John Deendee
-- Elon Musk
-- George Lopez
-- Dax Flame
-
-## Absent
-
-
-
-- A father figure
-
 # Session Overview
 
 
@@ -33,3 +17,18 @@ Total XP:  100
 # Loot
 
 Big Sword - Scary Dungeon - Atra Tumbletop
+
+# Roster 
+
+
+
+- John Deendee
+- Elon Musk
+- George Lopez
+- Dax Flame
+
+## Absent
+
+
+
+- A father figure
