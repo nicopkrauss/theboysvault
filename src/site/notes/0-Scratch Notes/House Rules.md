@@ -6,7 +6,12 @@
 
 ## Combat
 #### Critical Hits
-- A Crit is max damage + roll damage again
+- For crits roll twice
+
+#### Swapping Weapons
+- Start of combat swap as a bonus action
+- At any other time swap as an action
+- If you throw your weapon, you may equip another as a bonus action
 
 #### Drinking Potions
 - Bonus Action for you to drink a potion
