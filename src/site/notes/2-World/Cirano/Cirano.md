@@ -20,10 +20,8 @@
 ## Settlements
 - [[2-World/Cirano/Atavista\|Atavista]]
 - [[2-World/Cirano/Eskell\|Eskell]]
-- [[2-World/Cirano/Faaltan Mountains/Faaltan Mountains\|Faaltan Mountains]]
 - [[2-World/Cirano/Grandel\|Grandel]]
 - [[2-World/Cirano/Halden\|Halden]]
-- [[2-World/Cirano/Faaltan Mountains/Heartforge\|Heartforge]]
 - [[2-World/Cirano/Prin\|Prin]]
 - [[2-World/Cirano/Taverske\|Taverske]]
 - [[2-World/Cirano/Tiran\|Tiran]]
