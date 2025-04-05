@@ -41,3 +41,8 @@ code[class*=language-], pre[class*=language-] {
 .markdown-rendered .internal-link.is-unresolved {
     display: none;
 }
+
+//Hide Secrets//
+.callout[data-callout="attention"] {
+    display: none;
+}
