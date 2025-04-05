@@ -12,7 +12,7 @@
 > Race | Elf |
 > Class | Unknown  |
 > Home | Unknown  |
-> Group | `= this.AssociatedGroup` |
+> Group | Unknown |
 > Age | Ancient|
 > Condition | Unknown |
 
