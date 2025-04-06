@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Atavista
-> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ![Atavista.png|cover hsmall](/img/user/z_Assets/Atavista.png)
 > ###### Geography
 > Type |  Stat |
 > ---|---|
@@ -44,7 +44,7 @@
 ## Points of Interest
 - The Grand Plaza (central square, adjacent to the Market District)
 - Royal Citadel
-- [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]]'s shop
+- [[2-World/Cirano/Atavista/Atavistan Artifacts\|Atavistan Artifacts]]
 
 ## Additional Details
 Placeholder

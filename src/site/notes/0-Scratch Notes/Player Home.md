@@ -25,8 +25,14 @@ Nico
 { .block-language-dataview}
 
 # Party
-| Character Name | Player | Class | Race | level | Role |
-| -------------- | ------ | ----- | ---- | ----- | ---- |
+| Character Name                      | Player | Class                         | Race                          | level | Role   |
+| ----------------------------------- | ------ | ----------------------------- | ----------------------------- | ----- | ------ |
+| [[1-Party/Braegrom\|Braegrom]]   | Dim    | <ul><li>Barbarian</li></ul>   | <ul><li>Dwarf</li></ul>       | 2     | Player |
+| [[1-Party/Dáelian\|Dáelian]]     | George | <ul><li>Rune Knight</li></ul> | <ul><li>Shadir Kai</li></ul>  | 2     | Player |
+| [[1-Party/Harke\|Harke]]         | Danny  | <ul><li>Archer</li></ul>      | <ul><li>Wood Elf</li></ul>    | 2     | Player |
+| [[1-Party/Mar\|Mar]]             | Andrew | <ul><li>Monk</li></ul>        | <ul><li>Fire Genasi</li></ul> | 2     | Player |
+| [[1-Party/Seraphina\|Seraphina]] | Cat    | <ul><li>Warlock</li></ul>     | <ul><li>Half-Elf</li></ul>    | 2     | Player |
+| [[1-Party/Zorro\|Zorro]]         | Jared  | <ul><li>Druid</li></ul>       | <ul><li>Tortle</li></ul>      | 2     | Player |
 
 { .block-language-dataview}
 
