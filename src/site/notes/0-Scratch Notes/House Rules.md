@@ -7,6 +7,7 @@
 ## Combat
 #### Critical Hits
 - For crits roll twice
+- Ability modifier added twice
 
 #### Rolling Nat 20 on Initiative
 - Allows a disengage as a bonus action on your first turn of combat

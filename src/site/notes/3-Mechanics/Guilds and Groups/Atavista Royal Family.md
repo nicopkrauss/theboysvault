@@ -29,10 +29,10 @@ The name _Atavistos_ predates the family’s rise to power and is believed to ha
 ## Activities
 The royal family oversees governance, diplomacy, taxation, and the armed forces of Cirano. They hold court regularly in Atavista and are directly involved in settling disputes, ratifying trade, and maintaining roads, bridges, and infrastructure. The king also commands the [[Royal Knights of Atavista\|Royal Knights of Atavista]], an elite martial order loyal only to the crown.
 
-When the Atavistos guild led a successful uprising in 254 AG and seized the city from dwarven control, they renamed the capital [[2-World/Cirano/Atavista\|Atavista]] in their own honor. The **Festival of Hadron**, named after their founder and first king, is celebrated annually to mark this turning point in Cirano’s history.
+When the Atavistos guild led a successful uprising in 254 AG and seized the city from dwarven control, they renamed the capital [[2-World/Cirano/Atavista/Atavista\|Atavista]] in their own honor. The **Festival of Hadron**, named after their founder and first king, is celebrated annually to mark this turning point in Cirano’s history.
 
 ## Culture
-The [[3-Mechanics/Guilds and Groups/Atavista Royal Family\|Atavista Royal Family]] is known for its wealth, prestige, and visible power. The royal palace in [[2-World/Cirano/Atavista\|Atavista]] is one of the most magnificent on the continent—designed to impress, intimidate, and remind all who visit of the family’s dominance. Opulence is not hidden but proudly displayed through art, architecture, and lavish ceremony.
+The [[3-Mechanics/Guilds and Groups/Atavista Royal Family\|Atavista Royal Family]] is known for its wealth, prestige, and visible power. The royal palace in [[2-World/Cirano/Atavista/Atavista\|Atavista]] is one of the most magnificent on the continent—designed to impress, intimidate, and remind all who visit of the family’s dominance. Opulence is not hidden but proudly displayed through art, architecture, and lavish ceremony.
 
 ## History
 House Atavistos rose to power in 254 AG following the ousting of the Krankel dwarves—an insular regime that restricted citizenship and leadership to dwarves alone. Led by [[King Hadron Atavistos\|King Hadron Atavistos]], the uprising united humans and sympathetic dwarves under a single banner. After a decisive victory and a public oath to unify the realm, Hadron was crowned king and renamed the capital **Atavista**.

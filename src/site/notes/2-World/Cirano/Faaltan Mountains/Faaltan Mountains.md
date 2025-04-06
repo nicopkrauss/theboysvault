@@ -54,8 +54,8 @@ Placeholder
 # Organizations
 | Group                                                                   | Leader |
 | ----------------------------------------------------------------------- | ------ |
-| [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]] | \-     |
 | [[3-Mechanics/Guilds and Groups/Dawi Clan\|Dawi Clan]]               | \-     |
+| [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]] | \-     |
 
 { .block-language-dataview}
 

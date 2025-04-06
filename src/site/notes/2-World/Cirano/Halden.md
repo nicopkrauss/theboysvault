@@ -29,7 +29,7 @@
 
 # Halden
 ## Overview
-Positioned along a vital river, [[2-World/Cirano/Halden\|Halden]] is a prosperous inland port that connects multiple communities. It serves as the economic artery between [[2-World/Cirano/Taverske\|Taverske]] and [[2-World/Cirano/Atavista\|Atavista]], with its wealth placing Lord Remmari in a uniquely influential position among Cirano’s nobles.
+Positioned along a vital river, [[2-World/Cirano/Halden\|Halden]] is a prosperous inland port that connects multiple communities. It serves as the economic artery between [[2-World/Cirano/Taverske\|Taverske]] and [[2-World/Cirano/Atavista/Atavista\|Atavista]], with its wealth placing Lord Remmari in a uniquely influential position among Cirano’s nobles.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)

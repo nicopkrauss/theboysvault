@@ -1,49 +1,67 @@
 ---
-{"dg-publish":true,"permalink":"/3-mechanics/np-cs/king-alondus-atavistos/"}
+{"dg-publish":true,"permalink":"/2-world/cirano/atavista/atavista/","tags":["Category/Settlement"]}
 ---
+
 
 > [!infobox]
-> # King Alondus Atavistos
-> ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
-> ###### Basic Information
+> # Atavista
+> ![MapPlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
+> ###### Geography
 > Type |  Stat |
 > ---|---|
-> Sex | Male |
-> Race | Human |
-> Class | Unknown  |
-> Home | [[2-World/Cirano/Atavista/Atavista\|Atavista]]  |
-> Group | [[3-Mechanics/Guilds and Groups/Atavista Royal Family\|Atavista Royal Family]] |
-> Age | 27|
-> Condition | Alive |
+> Type | City |
+> Size | Capital city |
+> Region | Cirano |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Govt Type | Seat of the Monarchy |
+> Ruler | [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]]|
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Races | Humans,Dwarves|
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Exports | Luxury goods |
+> Imports | Basic goods |
 
+# Atavista
+## Overview
+[[2-World/Cirano/Atavista/Atavista\|Atavista]] is the capital of Cirano and one of the wealthiest cities on the continent of [[Fandor\|Fandor]]. Its glittering architecture and bustling trade districts draw merchants and nobles from afar. Though prosperous and peaceful on the surface, the lower districts still carry scars from a famine three years ago. The city thrives near the [[Alonian Sea\|Alonian Sea]], with ships coming and going daily.
 
-# King Alondus Atavistos
-## Profile
+### Placeholder Map
+![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-[[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]] is the current ruler of [[2-World/Cirano/Atavista/Atavista\|Atavista]], having ascended to the throne only five years ago after the unexpected death of his father, King Vaelric Atavistos, at the age of 52. At just 27 years old, Alondus is one of the youngest monarchs in the region, and while he rules actively and takes his duties seriously, many among the lower classes view him with quiet skepticism.
+### Photos
+![Atavista.png](/img/user/z_Assets/Atavista.png)
+![AtavistaPort.png](/img/user/z_Assets/AtavistaPort.png)
 
-Three years into his reign, the kingdom suffered a harsh and unexpected drought, straining resources and eroding public trust. Though there was little Alondus could have done to prevent it, rumors linger. Some view him as inexperienced or unlucky—others say he has potential yet untapped.
+## Notable NPCs
+- [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]]
 
-Trained as a warrior from a young age, Alondus is often seen in public bearing ceremonial armor rather than robes of state. He is determined to prove himself—not just as a monarch, but as a protector of the realm.
+## Points of Interest
+- The Grand Plaza (central square, adjacent to the Market District)
+- Royal Citadel
+- [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]]'s shop
 
----
+## Additional Details
+Placeholder
 
-> [!info] Statblock
-> ```statblock
-> name: Individual
-> monster: Commoner
-> columns: 1
-> ```
+# Organizations
+| Group                                                                             | Leader                                                                                    |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [[3-Mechanics/Guilds and Groups/Atavista Royal Family\|Atavista Royal Family]] | <ul><li>[[3-Mechanics/NPCs/King Alondus Atavistos.md\\|King Alondus Atavistos]]</li></ul> |
 
-```encounter-table
-name: Individual
-creatures:
- - 1: Commoner
-```
+{ .block-language-dataview}
+
 # Interactions
+
 | Date                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[1-Session Journals/Session 0\|Session 0]] | In session zero, the group discussed the campaign's structure, starting in the wealthy region of [[2-World/Cirano/Cirano\|Cirano]] ruled by [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]]. Characters were introduced, including Jared's druid, Harke's wood elf ranger, Mar's fire genasi monk, Dáelian's Shadar-Kai rune knight, and Cat's warlock. The players were tasked with collecting powerful artifacts for [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]], who contacted them for help in his antique shop in [[2-World/Cirano/Atavista/Atavista\|Atavista]], promising wealth and power in return. House rules were established, including crit mechanics and potion usage, while players were encouraged to develop their character backgrounds before the next session. |
+| [[1-Session Journals/Session 0\|Session 0]] | [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]] is an important NPC who runs an artifact shop in [[2-World/Cirano/Atavista/Atavista\|Atavista]] and has contacted the players for help in collecting powerful artifacts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [[1-Session Journals/Session 0\|Session 0]] | The world is called [[2-World/Cirano/Cirano\|Cirano]], a wealthy region ruled by [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]], and the players will start their adventure in [[2-World/Cirano/Atavista/Atavista\|Atavista]].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 { .block-language-dataview}

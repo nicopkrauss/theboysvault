@@ -15,10 +15,9 @@
 
 # Cirano
 ## Overview
-[[2-World/Cirano/Cirano\|Cirano]] is a politically important and geographically diverse province nestled between the eastern ridges of the [[2-World/Cirano/Faaltan Mountains/Faaltan Mountains\|Faaltan Mountains]] and the western shores of the [[Alonian Sea\|Alonian Sea]]. Its capital, [[2-World/Cirano/Atavista\|Atavista]], is the heart of royal power and culture, while the outer towns—like [[2-World/Cirano/Taverske\|Taverske]], [[2-World/Cirano/Halden\|Halden]], and [[2-World/Cirano/Tiran\|Tiran]]—support the kingdom through industry and defense. Traders move goods via river and road, weaving through forests, farmland, and ancient watchposts.
+[[2-World/Cirano/Cirano\|Cirano]] is a politically important and geographically diverse province nestled between the eastern ridges of the [[2-World/Cirano/Faaltan Mountains/Faaltan Mountains\|Faaltan Mountains]] and the western shores of the [[Alonian Sea\|Alonian Sea]]. Its capital, [[2-World/Cirano/Atavista/Atavista\|Atavista]], is the heart of royal power and culture, while the outer towns—like [[2-World/Cirano/Taverske\|Taverske]], [[2-World/Cirano/Halden\|Halden]], and [[2-World/Cirano/Tiran\|Tiran]]—support the kingdom through industry and defense. Traders move goods via river and road, weaving through forests, farmland, and ancient watchposts.
 
 ## Settlements
-- [[2-World/Cirano/Atavista\|Atavista]]
 - [[2-World/Cirano/Eskell\|Eskell]]
 - [[2-World/Cirano/Grandel\|Grandel]]
 - [[2-World/Cirano/Halden\|Halden]]
