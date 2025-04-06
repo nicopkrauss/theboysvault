@@ -7,7 +7,7 @@
 
 
 
-(x::In session zero, the group discussed the campaign's structure, starting in the wealthy region of [[2-World/Cirano/Cirano\|Cirano]] ruled by [[ King Alondus Atavistos\| King Alondus Atavistos]]. Characters were introduced, including Jared's druid, Harke's wood elf ranger, Mar's fire genasi monk, Dáelian's Shadar-Kai rune knight, and Cat's warlock. The players were tasked with collecting powerful artifacts for [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]], who contacted them for help in his antique shop in [[2-World/Cirano/Atavista\|Atavista]], promising wealth and power in return. House rules were established, including crit mechanics and potion usage, while players were encouraged to develop their character backgrounds before the next session.)
+(x::In session zero, the group discussed the campaign's structure, starting in the wealthy region of [[2-World/Cirano/Cirano\|Cirano]] ruled by [[3-Mechanics/NPCs/King Alondus Atavistos\|King Alondus Atavistos]]. Characters were introduced, including Jared's druid, Harke's wood elf ranger, Mar's fire genasi monk, Dáelian's Shadar-Kai rune knight, and Cat's warlock. The players were tasked with collecting powerful artifacts for [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]], who contacted them for help in his antique shop in [[2-World/Cirano/Atavista\|Atavista]], promising wealth and power in return. House rules were established, including crit mechanics and potion usage, while players were encouraged to develop their character backgrounds before the next session.)
 
 (x::Session Zero took place, introducing the players to the campaign and character creation rules.)
 
