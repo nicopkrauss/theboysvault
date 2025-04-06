@@ -15,6 +15,7 @@ Nico
 | ------------------------------------------------ | ------- |
 | [[1-Session Journals/Session 0\|Session 0]]   | 5       |
 | [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
+| [[1-Session Journals/04-06-2025\|04-06-2025]] | 6       |
 
 { .block-language-dataview}
 

@@ -72,7 +72,8 @@ Placeholder
 
 # Interactions
 
-| Date | Interactions |
-| ---- | ------------ |
+| Date                                             | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1-Session Journals/04-06-2025\|04-06-2025]] | The party boards a carriage, stopping briefly in the farming town of [[2-World/Cirano/Prin\|Prin]] where [[1-Party/Harke\|Harke]] retrieves supplies (and 17 gold) from his family. The party intimidates the carriage driver into waiting for their return and taking them back to [[2-World/Cirano/Atavista/Atavista\|Atavista]]. They arrive in [[2-World/Cirano/Taverske\|Taverske]]. Following the compass, they venture into the forest, where they discover a glowing sword embedded in a tree. This triggers an ambush by bandits, leading to a chaotic battle. The party defeats the bandits, loots 45 gold, and discovers the sword is nonmagical. |
 
 { .block-language-dataview}
