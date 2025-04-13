@@ -6,16 +6,17 @@
 # Viremyr's Mittens
 *Wondrous Item (Gloves), legendary (requires attunement by a monk or martial character)*
 
+**AC:** -1
 **Cost:** ⏤
 **Weight:** 1.0 lbs.
 
 #### Blazing Echo (Passive)
 Once per turn, when you hit with a melee weapon attack or unarmed strike, you deal an additional **1d6 fire damage**.
 
-#### Ignition Step (1/rest)
+#### Ignition Step (1/S rest)
 As a bonus action, your movement speed increases by 15 feet and opportunity attacks against you are made with disadvantage. Your melee attacks deal +2 fire damage until the end of your turn.
 
-#### Molten Grasp (1/rest)
+#### Molten Grasp (1/S rest)
 When you hit a creature with a melee attack, you can attempt to grapple it as a free action. If successful, the target takes **3d6 fire damage** immediately as flame bursts from your grip.
 
 ---
