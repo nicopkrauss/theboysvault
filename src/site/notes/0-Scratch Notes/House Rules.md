@@ -25,6 +25,9 @@
 #### Close Quarters Range Weapon Exception
 - Use your range weapon as a melee or switch to a light weapon as a bonus action
 
+#### Throwing Healing Potions
+- Action to throw a healing potion, if 10 and up, player successful catches (not drinks), if 10 or down the potion breaks
+
 ## Exploration and Rest
 #### Short Rests
 - 1 hour passes
