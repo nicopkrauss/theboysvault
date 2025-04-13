@@ -35,7 +35,7 @@
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
 ### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+![Taverske.png|hmed](/img/user/z_Assets/Taverske.png)
 
 ## Notable NPCs
 [[Sir Branneth Vorr\|Sir Branneth Vorr]]

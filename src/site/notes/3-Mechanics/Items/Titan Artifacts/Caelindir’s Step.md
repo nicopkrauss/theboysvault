@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-mechanics/items/titan-artifacts/caelindir-s-step/","tags":["item"]}
 ---
 
-
+![Caelindir's Step 1.png|hmed center](/img/user/z_Assets/Caelindir's%20Step%201.png)
 # Caelindir’s Step
 _Wondrous Item (Boots), legendary (requires attunement)_
 
