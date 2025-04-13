@@ -26,8 +26,10 @@ While few know the location, those who do dare not enter. The brave—or foolish
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+### Picture
+![ChatGPT_Image_Apr_13_2025_10_47_35_AM.webp](/img/user/z_Assets/ChatGPT_Image_Apr_13_2025_10_47_35_AM.webp)
+![ChatGPT_Image_Apr_13_2025_10_34_04_AM.webp](/img/user/z_Assets/ChatGPT_Image_Apr_13_2025_10_34_04_AM.webp)
+![file-53LzsHojVtRrTueuRaykKc 1.webp](/img/user/z_Assets/file-53LzsHojVtRrTueuRaykKc%201.webp)
 
 ## Notable NPCs
 Placeholder
