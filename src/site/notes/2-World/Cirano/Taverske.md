@@ -34,7 +34,7 @@
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
+### Picture
 ![Taverske.png|hmed](/img/user/z_Assets/Taverske.png)
 
 ## Notable NPCs

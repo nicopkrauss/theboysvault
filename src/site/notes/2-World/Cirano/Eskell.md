@@ -34,8 +34,10 @@
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+### Picture
+![Eskell.png|hmed](/img/user/z_Assets/Eskell.png)
+![Eskell Creepy.png|hmed](/img/user/z_Assets/Eskell%20Creepy.png)
+![Eskell (window).png|hmed](/img/user/z_Assets/Eskell%20(window).png)
 
 ## Notable NPCs
 [[Lady Mirelle Dorran\|Lady Mirelle Dorran]]

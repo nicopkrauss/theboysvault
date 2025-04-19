@@ -33,8 +33,8 @@
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+### Picture
+![Grandel.png|hmed](/img/user/z_Assets/Grandel.png)
 
 ## Notable NPCs
 [[Lord Henric Tolmire\|Lord Henric Tolmire]]

@@ -34,8 +34,9 @@ Positioned along a vital river, [[2-World/Cirano/Halden\|Halden]] is a prosperou
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+### Picture
+![Halden.png|hmed](/img/user/z_Assets/Halden.png)
+![Halden Streets.png|hmed](/img/user/z_Assets/Halden%20Streets.png)
 
 ## Notable NPCs
 [[Lord Caldus Remmari\|Lord Caldus Remmari]]

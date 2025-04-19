@@ -34,8 +34,8 @@
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+### Picture
+![Tiran.png|hmed](/img/user/z_Assets/Tiran.png)
 
 ## Notable NPCs
 [[Lord Vedan Yurek\|Lord Vedan Yurek]]

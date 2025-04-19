@@ -29,40 +29,22 @@
 
 # Prin
 ## Overview
-Placeholder
+[[2-World/Cirano/Prin\|Prin]] is a peaceful farming town nestled beside a wide river and surrounded by fertile farmland. Known for its kind-hearted people and abundant harvests, the town celebrates a yearly festival called the Sun Salutation to honor the season’s first yield. Though small and politically quiet, Prin is an essential provider for the kingdom.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
 
-### Placeholder Picture
-![ImagePlaceholder.png|Placeholder Picture](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
+### Picture
+![Prin.png|hmed](/img/user/z_Assets/Prin.png)
 
 ## Notable NPCs
-Placeholder
-
-## Profile
-Placeholder
-
-## Story
-Placeholder
-
-## Points of Interest
-Placeholder
-
-## Valuables
-Placeholder
-
-## Internal Relationships
-Placeholder
-
-## Outward Relationships
-Placeholder
-
-## Background
-Placeholder
+[[Lord Emric Thane\|Lord Emric Thane]]
 
 ## Additional Details
-Placeholder
+[[2-World/Cirano/Prin\|Prin]] is ruled by **[[Lord Emric Thane\|Lord Emric Thane]]**, a fair and well-liked noble who oversees the town with a steady hand. The people live by the rhythms of the land—rising early to tend crops, trading in the modest market square, and gathering communally during seasonal milestones. The Sun Salutation features vibrant colors, local music, and fields adorned with wreaths of grain and wildflowers. While it lacks formal shops or enchantments, Prin’s produce is among the most prized in [[2-World/Cirano/Cirano\|Cirano]].
+
+> [!attention]+ The Fountain at the edge of town.
+> Hidden near the edge of Prin’s farmland lies a sacred natural spring known only to locals: **the Shimmerwell**. Said to gleam faintly under moonlight, its waters are believed to bless the year’s crops with vigor and health. The townsfolk draw from it only once a year during the Sun Salutation, using it in a quiet ritual to bless the first harvested crops. Its location is kept secret from outsiders and protected with a blend of reverence, superstition, and generational trust.
 
 # Organizations
 | Group | Leader |

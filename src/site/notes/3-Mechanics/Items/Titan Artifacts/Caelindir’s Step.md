@@ -24,6 +24,6 @@ Your movement speed increases by 5 feet, and you leave no tracks unless you choo
 ---
 
 ## Description
-These soft leather boots are enchanted with the restless winds of [[Titan of Wind, Caelindir\|Titan of Wind, Caelindir]]. A purple gemstone at each ankle pulses gently, with wind-like arcane veins spiraling out and fading across the leather.
+These soft leather boots are enchanted with the restless winds of [[Titan of Illusion, Caelindir\|Titan of Illusion, Caelindir]]. A purple gemstone at each ankle pulses gently, with wind-like arcane veins spiraling out and fading across the leather.
 
 *Source: Homebrew*
