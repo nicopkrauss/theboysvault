@@ -10,6 +10,7 @@ You opened the door to the temple. Now we continue inside.
 | ------------------------------------------------ | ------- |
 | [[1-Session Journals/Session 0\|Session 0]]   | 5       |
 | [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
+| [[1-Session Journals/04-19-2025\|04-19-2025]] | 2       |
 | [[1-Session Journals/04-13-2025\|04-13-2025]] | 2       |
 | [[1-Session Journals/04-06-2025\|04-06-2025]] | 6       |
 
