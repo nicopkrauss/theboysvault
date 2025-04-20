@@ -16,8 +16,9 @@ You opened the door to the temple. Now we continue inside.
 { .block-language-dataview}
 
 # Active Quests
-| Quest | Description |
-| ----- | ----------- |
+| Quest                                                             | Description                                                                                                                                                                                                          |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-Campaign/Quests/Tim Apple's Request\|Tim Apple's Request]] | [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]] has sent you all to find 6 artifacts in the [[2-World/Cirano/Faaltan Mountains/Faaltan Mountains\|Faaltan Mountains]]. You were warned you may run into [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]]. If you return in 2 days or less, he will let you keep half of what you find. |
 
 { .block-language-dataview}
 
