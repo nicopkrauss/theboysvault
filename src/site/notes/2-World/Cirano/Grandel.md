@@ -28,7 +28,7 @@
 
 # Grandel
 ## Overview
-[[2-World/Cirano/Grandel\|Grandel]] is a wealthy logging village surrounde by dense woodlands. Its economy is driven almost entirely by timber, with shipments frequently heading to [[2-World/Cirano/Halden\|Halden]] and [[2-World/Cirano/Atavista/Atavista\|Atavista]]. Despite its humble infrastructure, its output grants it minor political sway.
+[[2-World/Cirano/Grandel\|Grandel]] is a wealthy logging village surrounded by dense woodlands. Its economy is driven almost entirely by timber, with shipments frequently heading to [[2-World/Cirano/Halden\|Halden]] and [[2-World/Cirano/Atavista/Atavista\|Atavista]]. Despite its humble infrastructure, its output grants it minor political sway.
 
 ### Placeholder Map
 ![MapPlaceholder.png|Placeholder Map](/img/user/z_Assets/Placeholder%20Images/MapPlaceholder.png)
