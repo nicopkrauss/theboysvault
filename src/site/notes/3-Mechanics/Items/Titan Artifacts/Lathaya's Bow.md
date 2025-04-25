@@ -23,7 +23,7 @@ As an action, you make three ranged attacks with disadvantage. Each attack must 
 Your next attack with Lathaya’s Bow ignores all cover and does not require line of sight. The arrow bends around obstacles, guided by currents of wind.
 
 #### **Lathaya’s Warning (3/long rest)**
-When a creature makes an attack roll, you may use your reaction to fire a preemptive shot. If the attack hits, the target’s attack automatically misses.
+When a creature makes an attack roll, you may use your reaction to fire a preemptive shot. If the attack hits, the target must roll to hit again (disadvantage).
 
 ---
 
