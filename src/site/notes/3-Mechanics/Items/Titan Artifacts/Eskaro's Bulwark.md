@@ -5,7 +5,6 @@
 ![Eskaro's Bulwark.png|hmed center](/img/user/z_Assets/Eskaro's%20Bulwark.png)
 # Eskaro's Bulwark
 _Wondrous item (chestplate), artifact (requires attunement)_  
-**AC:** 18 
 **Cost:** ⏤  
 **Weight:** 40.0 lbs.
 
