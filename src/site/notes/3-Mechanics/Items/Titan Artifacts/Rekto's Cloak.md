@@ -4,7 +4,7 @@
 
 ![Rekto's Cloak.png|hmed center](/img/user/z_Assets/Rekto's%20Cloak.png)
 # Rekto's Cloak
-_Wondrous Item (Cloak), legendary (requires attunement by a creature with Strength 18 or higher)_
+_Wondrous Item (Cloak), legendary (requires attunement)_
 
 **Effect:** Grants initiative, evasive mobility, and a devastating shockwave redirect.
 **Weight:** 3.5 lbs.
