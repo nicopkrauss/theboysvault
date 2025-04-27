@@ -3,7 +3,7 @@
 ---
 
 # DM Note
-You opened the door to the temple. Now we continue inside.
+This is it. Welcome to the end of the prologue.
 
 # Sessions
 | Session Date                                     | Players |
