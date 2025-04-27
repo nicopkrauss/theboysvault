@@ -12,13 +12,13 @@
 #### Verdant Mind (Passive)
 You are immune to the charmed condition. You can communicate telepathically with beasts and plants within 60 feet.
 
-#### Verdant Lifeforce
+#### Verdant Lifeforce (Passive)
 Whenever you restore HP to a creature with a spell or class feature, that creature also gains **temp HP = your Wis mod + proficiency bonus**.
 
 #### Nature’s Ward (1/S rest)
 A target within **30 ft** must make a STR save or take **3d6 piercing** and be **pushed 10 ft** away from you. On a fail, it is also **restrained** until the start of your next turn.
 
-#### Rootbind Gaze (1/L rest)
+#### Avatar of Nature (1/L rest)
 Transform for **1 minute** into a Large plant-like avatar: gain **3d6 temp HP**, **+2 AC**, advantage on STR & CON saves, and your magical attacks deal **+1d4  magic damage**.
 
 ---
