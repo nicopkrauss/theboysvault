@@ -11,11 +11,14 @@ _Wondrous item (chestplate), artifact (requires attunement)_
 
 ---
 
+#### Eskaro's Blessing
+The chestplate pushes against the magnetic forces of the earth. Using Eskaro's Bulwark counts as wearing no armor.
+
 #### **Echo Crash (Passive)**
-When you score a **critical hit with a melee weapon**, all creatures within 5 feet of your target take **1d6 force damage** as a resonant shockwave ripples outward.
+When you score a **critical hit with a melee weapon**, all creatures within 10 feet of your target take **2d6 force damage** as a resonant shockwave ripples outward.
 
 #### **Overcrush (Passive)**
-When you make a melee attack and **exceed the target’s AC by 5 or more**, the attack deals **an additional die of weapon damage**.
+When you make a melee attack and **exceed the target’s AC by 3 or more**, the attack deals **an additional die of weapon damage**.
 
 #### **Earthen Rebirth (1/long rest)**
 When reduced to **0 hit points**, you erupt in a surge of earth and stone. You immediately regain **2d10 + your Constitution modifier** hit points and **stand up automatically**.

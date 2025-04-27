@@ -11,7 +11,7 @@
 **Weight:** 1.0 lbs.
 
 #### Blazing Echo (Passive)
-Once per attack, when you hit with a melee weapon attack or unarmed strike, you deal an additional **1d6 fire damage**.
+Once per attack, when you hit with a melee weapon attack or unarmed strike, you deal an additional **1d4 fire damage**.
 
 #### Ignition Step (1/S rest)
 As a bonus action, your movement speed increases by 15 feet and opportunity attacks against you are made with disadvantage. Your melee attacks deal +2 fire damage until the end of your turn.
