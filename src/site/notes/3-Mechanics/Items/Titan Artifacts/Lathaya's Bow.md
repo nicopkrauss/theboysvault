@@ -17,7 +17,7 @@ _Wondrous item (longbow), artifact (requires attunement)_
 The bow never requires ammunition. Arrows made of pure air form when you nock the string.
 
 #### **Flurry Volley (1/short rest)**
-As an action, you make three ranged attacks with disadvantage. Each attack must target a different creature within 30 feet.
+As an action, you make three ranged attacks with disadvantage. Each attack must target a different creature within 75 feet.
 
 #### **Twisting Shot (1/short rest)**
 Your next attack with Lathaya’s Bow ignores all cover and does not require line of sight. The arrow bends around obstacles, guided by currents of wind.

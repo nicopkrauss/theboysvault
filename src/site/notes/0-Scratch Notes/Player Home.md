@@ -10,6 +10,7 @@ This is it. Welcome to the end of the prologue.
 | ------------------------------------------------ | ------- |
 | [[1-Session Journals/Session 0\|Session 0]]   | 5       |
 | [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
+| [[1-Session Journals/04-26-2025\|04-26-2025]] | 2       |
 | [[1-Session Journals/04-19-2025\|04-19-2025]] | 5       |
 | [[1-Session Journals/04-13-2025\|04-13-2025]] | 4       |
 | [[1-Session Journals/04-06-2025\|04-06-2025]] | 6       |
