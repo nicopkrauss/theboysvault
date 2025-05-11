@@ -3,7 +3,7 @@
 ---
 
 # DM Note
-This is it. Welcome to the end of the prologue.
+What is a dingle to do?
 
 # Sessions
 | Session Date                                     | Players |
@@ -20,9 +20,9 @@ This is it. Welcome to the end of the prologue.
 { .block-language-dataview}
 
 # Active Quests
-| Quest                                                             | Description                                                                                                                                                                                                          |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[2-Campaign/Quests/Tim Apple's Request\|Tim Apple's Request]] | [[3-Mechanics/NPCs/Tim Apple\|Tim Apple]] has sent you all to find 6 artifacts in the [[2-World/Cirano/Faaltan Mountains/Faaltan Mountains\|Faaltan Mountains]]. You were warned you may run into [[3-Mechanics/Guilds and Groups/The Shardbinders\|The Shardbinders]]. If you return in 2 days or less, he will let you keep half of what you find. |
+| Quest                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[2-Campaign/Quests/Dingle's Delivery\|Dingle's Delivery]] | [[Jason Dingle\|Jason Dingle]], a blacksmith in the guild hall of the past, has tasked the party with delivering a finely crafted, decorative one-handed sword. The recipient is a wealthy, unnamed benefactor from [[2-World/Cirano/Atavista/Atavista\|Atavista]]. Dingle was contacted by letter and only knows the benefactor will be wearing a red tunic and a "funny little hat with a little bow on top" and will be waiting by a fountain in [[2-World/Cirano/Atavista/Atavista\|Atavista]]. The payment for the sword is 1000 gold pieces, of which the party will receive 150 gold pieces if they return 850 gold to Dingle by noon the next day. |
 
 { .block-language-dataview}
 
