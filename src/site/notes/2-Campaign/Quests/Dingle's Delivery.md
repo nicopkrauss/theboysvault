@@ -18,7 +18,7 @@
 > Available Loot | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Acquired Loot | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-(x::[[Jason Dingle\|Jason Dingle]], a blacksmith in the guild hall of the past, has tasked the party with delivering a finely crafted, decorative one-handed sword. The recipient is a wealthy, unnamed benefactor from [[2-World/Cirano/Atavista/Atavista\|Atavista]]. Dingle was contacted by letter and only knows the benefactor will be wearing a red tunic and a "funny little hat with a little bow on top" and will be waiting by a fountain in [[2-World/Cirano/Atavista/Atavista\|Atavista]]. The payment for the sword is 1000 gold pieces, of which the party will receive 150 gold pieces if they return 850 gold to Dingle by noon the next day.)
+(x::[[3-Mechanics/NPCs/Jason Dingle\|Jason Dingle]], a blacksmith in the guild hall of the past, has tasked the party with delivering a finely crafted, decorative one-handed sword. The recipient is a wealthy, unnamed benefactor from [[2-World/Cirano/Atavista/Atavista\|Atavista]]. Dingle was contacted by letter and only knows the benefactor will be wearing a red tunic and a "funny little hat with a little bow on top" and will be waiting by a fountain in [[2-World/Cirano/Atavista/Atavista\|Atavista]]. The payment for the sword is 1000 gold pieces, of which the party will receive 150 gold pieces if they return 850 gold to Dingle by noon the next day.)
 
 ## Objectives
 
