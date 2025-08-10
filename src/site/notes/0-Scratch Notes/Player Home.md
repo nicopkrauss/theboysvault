@@ -10,14 +10,14 @@ What is a dingle to do?
 | ------------------------------------------------ | ------- |
 | [[1-Session Journals/Session 0\|Session 0]]   | 5       |
 | [[1-Session Journals/Fake Entry\|Fake Entry]] | 2       |
+| [[1-Session Journals/07-27-2025\|07-27-2025]] | 2       |
+| [[1-Session Journals/07-20-2025\|07-20-2025]] | 2       |
 | [[1-Session Journals/06-15-2025\|06-15-2025]] | 2       |
 | [[1-Session Journals/05-25-2025\|05-25-2025]] | 5       |
 | [[1-Session Journals/05-11-2025\|05-11-2025]] | 2       |
 | [[1-Session Journals/05-04-2025\|05-04-2025]] | 2       |
 | [[1-Session Journals/04-26-2025\|04-26-2025]] | 2       |
 | [[1-Session Journals/04-19-2025\|04-19-2025]] | 5       |
-| [[1-Session Journals/04-13-2025\|04-13-2025]] | 4       |
-| [[1-Session Journals/04-06-2025\|04-06-2025]] | 6       |
 
 { .block-language-dataview}
 
@@ -31,12 +31,12 @@ What is a dingle to do?
 # Party
 | Character Name                      | Player | Class                         | Race                          | level | Role   |
 | ----------------------------------- | ------ | ----------------------------- | ----------------------------- | ----- | ------ |
-| [[1-Party/Fain\|Fain]]           | Dim    | <ul><li>Wizard</li></ul>      | <ul><li>Eladrin</li></ul>     | 2     | Player |
 | [[1-Party/Harke\|Harke]]         | Danny  | <ul><li>Archer</li></ul>      | <ul><li>Wood Elf</li></ul>    | 2     | Player |
 | [[1-Party/Mar\|Mar]]             | Andrew | <ul><li>Monk</li></ul>        | <ul><li>Fire Genasi</li></ul> | 2     | Player |
 | [[1-Party/Seraphina\|Seraphina]] | Cat    | <ul><li>Warlock</li></ul>     | <ul><li>Half-Elf</li></ul>    | 2     | Player |
-| [[1-Party/Dáelen\|Dáelen]]       | George | <ul><li>Rune Knight</li></ul> | <ul><li>Shadir Kai</li></ul>  | 2     | Player |
 | [[1-Party/Zorro\|Zorro]]         | Jared  | <ul><li>Druid</li></ul>       | <ul><li>Tortle</li></ul>      | 2     | Player |
+| [[1-Party/Dáelen\|Dáelen]]       | George | <ul><li>Rune Knight</li></ul> | <ul><li>Shadir Kai</li></ul>  | 2     | Player |
+| [[1-Party/Fain\|Fain]]           | Dim    | <ul><li>Wizard</li></ul>      | <ul><li>Eladrin</li></ul>     | 2     | Player |
 
 { .block-language-dataview}
 
